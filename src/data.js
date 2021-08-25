@@ -90,6 +90,14 @@ export const certificates = [
     image: "./certificate-7.png",
     
   },
+  {
+    title: "OPPOHack Hackathon",
+    subtitle: "Hackhub",
+    description:
+      "Worked on TravelMate, a product to help people find friends while travelling. Did the research for it for all technology, market, distribution, competition and financial perspectives",
+    image: "./certificate-8.png",
+    
+  },
 ];
 
 export const testimonials = [
