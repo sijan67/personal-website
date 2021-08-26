@@ -12,7 +12,7 @@ export default function About(){
                     <br className=" text-white hidden lg:inline-block"/> I love coming up with new ideas and building new things! 
                 </h1>
                 <p className="mb-8 leading-relaxed">
-                    Computer Engineering Student at UBC, Vancouver
+                    I am currently a Computer Engineering Student at UBC, Vancouver
                 </p>
                 <div className="flex justify-center">
                     <a 
@@ -33,7 +33,7 @@ export default function About(){
                 <img 
                   className="object-cover object-center rounded"
                   alt= "hero"
-                  src="./code2.svg"
+                  src="./me.svg"
                   />
 
             </div>

@@ -28,7 +28,9 @@ export default function Contact(){
             <img 
                   className="object-cover object-center rounded"
                   alt= "hero"
-                  src="./me.svg"
+                  src="./code2.svg"
+                  width = "700px"
+                  height= "50px"
                   />
 
             <form 

@@ -12,7 +12,7 @@ export default function Certificates(){
                         Certificates
                  </h1>
                  <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                         I am always eager to learn new things, challenge myself and build my skillsets
+                         I always try to set goals , step out of my comfort zone and challenge myself 
                  </p>
             </div>
 
